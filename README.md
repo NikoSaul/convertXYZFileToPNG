@@ -1,7 +1,5 @@
 # convertXYZFileToPNG
-Convert file xyz to image png
-
-This program can convert n xyz file to one image.
+Convert n file xyz to image png
 
 with this command : 
 ````python pyxyz.py nfilexyz.xyz````
